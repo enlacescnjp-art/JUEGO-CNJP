@@ -1,0 +1,12 @@
+{
+  "name": "lan-fighter",
+  "version": "1.0.0",
+  "description": "Juego de peleas LAN 2D",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
